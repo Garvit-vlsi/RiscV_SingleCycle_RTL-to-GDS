@@ -35,7 +35,7 @@ extender, main decoder, ALU decoder, program counter and adders.
 | `results/` | Netlists, reports, final GDSII |
 | `docs/` | Design calculations and flow screenshots (`docs/images/`) |
 
-## Flow
+
 ## Flow
 
 The design goes from RTL to GDSII in two tools: **Cadence Genus** for logic synthesis, then **Cadence Innovus** for physical implementation.
