@@ -1,0 +1,18 @@
+
+Total Area = 36792.152 um^2
+
+Core area = Total area/util percentage(70% utilization) = 36792.152/0.7 = = 52560.217
+Core Dimension = 229.26 x 229.26 um
+
+Total Power = 6.27mW
+Avg Current = Power/Vdd( for 90nm) = 6.27mA
+
+I core or I peak = Avg current *3 = 18.81mA
+
+Total Width of power ring = Icore/0.5(mA/um) = 37.62um
+Width per segment = 37.62/4 = 9.405 approximately 10um
+
+Die to core spacing = 10um*2 + 3um( outer boundary) + 2um(vdd to vss distance according to drc) + 5um( Core Halo )= 30um 
+
+overall die size = (229.26 + 60um) x (229.29 + 60um) = apprximately 290 x 290 um
+
