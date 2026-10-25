@@ -98,5 +98,4 @@ Cadence Genus and Innovus licenses, plus the 90 nm PDK (Liberty, LEF, cap table)
 which are not included. Update the PDK paths in `scripts/run.tcl` and
 `scripts/Default.view` to match your machine.
 
-## Maintainer
-[MAINTAINER], [EMAIL]
+
